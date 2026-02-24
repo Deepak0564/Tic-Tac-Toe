@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color:rgb(128, 209, 194);
+    background-color:rgb(129, 209, 194);
     text-align: center;
 }
 .container{
@@ -19,6 +19,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+
     gap: 1.5vmin;
     
 }
